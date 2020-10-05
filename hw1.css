@@ -92,6 +92,11 @@ tr:hover{
     opacity: .8;
     
 }
+.hover-bt{
+    
+}
 
-
-
+.hover-bt:hover{
+    background-color: #747d20;
+    box-shadow: 0 5px 5px 0 rgb(8, 6, 6);
+}
